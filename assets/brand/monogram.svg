@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" role="img" aria-label="Daniel Beltran">
+  <!--
+    The Daniel Beltran mark. Not a monogram - a meaning.
+    - GROUND LINE at the base is zero: "the best way to rebuild a life is
+      starting from 0."
+    - VERTICAL AXIS rises from that ground through the centre and past the top:
+      the self built upward, root to crown, soul before bones.
+    - RING is the whole - the truth (Verum), the one, the figure inscribed in
+      the circle. "This wall hiding the truth will fall."
+    - The single CLAY node at the centre is the living self: the one point of
+      aliveness the whole thing is built around.
+    Drawn geometrically, like a blueprint, because that is what the brand is.
+  -->
+  <circle cx="32" cy="30" r="19" stroke="#28374A" stroke-width="2.4" />
+  <line x1="32" y1="4.5" x2="32" y2="57.5" stroke="#28374A" stroke-width="2.4" stroke-linecap="round" />
+  <line x1="20.5" y1="57.5" x2="43.5" y2="57.5" stroke="#28374A" stroke-width="2.4" stroke-linecap="round" />
+  <circle cx="32" cy="30" r="3.4" fill="#C1613D" />
+</svg>
